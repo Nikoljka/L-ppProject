@@ -67,4 +67,4 @@ Xml файл должен содержать id, kogus, arve, telija, kuupäev
 Пользователи (может смотреть только админ)
 
 <a href="https://ibb.co/VW4NL3Q"><img src="https://i.ibb.co/6RCZyN1/wms-OW7jk-HAo.jpg" alt="wms-OW7jk-HAo" border="0"></a>
-<a href="https://ibb.co/QQxnTgn"><img src="https://i.ibb.co/JtS2G12/Nz-HW1vmuy-FM.jpg" alt="Nz-HW1vmuy-FM" border="0"></a>
+
