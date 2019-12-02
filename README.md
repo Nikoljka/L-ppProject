@@ -24,3 +24,8 @@ Xml файл должен содержать id, kogus, arve, telija, kuupäev
 •название товара в различных складах 
 •просмотр сделанных заказов 
 •товар (CRUD) (ред, удалить, добавить и тд)
+
+Документация проекта ASP.NET
+
+Главная страница:
+<a href="https://ibb.co/jfF8zmB"><img src="https://i.ibb.co/nmSwB9Z/94-Eg-r-Xt-B4-A.jpg" alt="94-Eg-r-Xt-B4-A" border="0"></a>
