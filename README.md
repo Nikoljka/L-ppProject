@@ -54,3 +54,17 @@ Xml файл должен содержать id, kogus, arve, telija, kuupäev
 Заказ оформлен:
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/m5PN4tq/d-Pv-Mm9-Ea5o.jpg" alt="d-Pv-Mm9-Ea5o" border="0"></a>
+
+Страница моих заказов:
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/4t9xRWR/z-Kr-ALJm-Ov-AI.jpg" alt="z-Kr-ALJm-Ov-AI" border="0"></a>
+
+Страница продуктов с авторизацией админа: 
+(возможность удалить, добавить и редактирвоать)
+
+<a href="https://ibb.co/QQxnTgn"><img src="https://i.ibb.co/JtS2G12/Nz-HW1vmuy-FM.jpg" alt="Nz-HW1vmuy-FM" border="0"></a>
+
+Пользователи (может смотреть только админ)
+
+<a href="https://ibb.co/VW4NL3Q"><img src="https://i.ibb.co/6RCZyN1/wms-OW7jk-HAo.jpg" alt="wms-OW7jk-HAo" border="0"></a>
+<a href="https://ibb.co/QQxnTgn"><img src="https://i.ibb.co/JtS2G12/Nz-HW1vmuy-FM.jpg" alt="Nz-HW1vmuy-FM" border="0"></a>
