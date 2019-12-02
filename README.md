@@ -25,7 +25,7 @@ Xml файл должен содержать id, kogus, arve, telija, kuupäev
 •просмотр сделанных заказов 
 •товар (CRUD) (ред, удалить, добавить и тд)
 
-Документация проекта ASP.NET
+Документация проекта ASP.NET Часть 1
 
 Главная страница:
 
@@ -68,3 +68,20 @@ Xml файл должен содержать id, kogus, arve, telija, kuupäev
 
 <a href="https://ibb.co/VW4NL3Q"><img src="https://i.ibb.co/6RCZyN1/wms-OW7jk-HAo.jpg" alt="wms-OW7jk-HAo" border="0"></a>
 
+Часть 2 Php
+
+Как выглядет: 
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/YkqThyd/H-iva.png" alt="H-iva" border="0"></a>
+
+Поиск по имени или по букве:
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/wC6yZWC/H-iva1.png" alt="H-iva1" border="0"></a>
+
+Сортировка "count" от большего к меньшему: 
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/FHQnQ7w/H-iva2.png" alt="H-iva2" border="0"></a>
+
+Сортировка "price" от меньшего к большему:
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Fnwx7jm/H-iva3.png" alt="H-iva3" border="0"></a>
