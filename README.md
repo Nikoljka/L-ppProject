@@ -30,3 +30,16 @@ Xml файл должен содержать id, kogus, arve, telija, kuupäev
 Главная страница:
 
 <a href="https://ibb.co/jfF8zmB"><img src="https://i.ibb.co/nmSwB9Z/94-Eg-r-Xt-B4-A.jpg" alt="94-Eg-r-Xt-B4-A" border="0"></a>
+
+Страница продуктов: 
+
+<a href="https://ibb.co/b1T7nKz"><img src="https://i.ibb.co/7vPbF12/H-iva.png" alt="H-iva" border="0"></a>
+
+Страница регистрации:
+
+<a href="https://ibb.co/dcGgRLs"><img src="https://i.ibb.co/xsJHNfK/OGSTvt-PBYSs.jpg" alt="OGSTvt-PBYSs" border="0"></a>
+
+Страница авторизации: 
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/fQjkCYr/76-En27-C6sb-E.jpg" alt="76-En27-C6sb-E" border="0"></a>
+
